@@ -1,0 +1,13 @@
+صدى "# whatsapp-abdalghny-alghumary" >> README.md 
+
+git init 
+
+إضافة README.md 
+
+git الالتزام -m "الالتزام الأول" 
+
+git Branch -M main 
+
+git remote add origin https://github.com/Abdalghnyalghumary/whatsapp- abdalghny-alghumary.git
+
+ git push -u origin main
