@@ -1,2 +1,3 @@
 # whatsapp-abdalghny-alghumary
-هذا الواتساب من تطوير غبدالغني الغماري
+هذا الواتساب من تطوير عبدالغني الغماري
+https://t.me/abdalghnyWA1
